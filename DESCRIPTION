@@ -1,0 +1,11 @@
+Package: yogi2022
+Type: Package
+Title: Christmas Greetings
+Version: 0.1.0
+Authors@R: person("Yogananda Srihari Prasad", "Gone", email = "yogigone@gmail.com", role = c("aut", "cre"))
+Maintainer: The package maintainer <yourself@somewhere.net>
+Description: This package is just created for wishing people with Christmas Greetings.
+Depends: R (>= 3.1.0)
+License: GNU General Public License v3.0
+RoxygenNote: 7.2.1
+Encoding: UTF-8
